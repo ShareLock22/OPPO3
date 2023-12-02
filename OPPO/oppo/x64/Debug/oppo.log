@@ -1,0 +1,9 @@
+﻿  Sea.cpp
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(13,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(14,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(21,12): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(25,12): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(29,28): warning C4566: символ, представленный универсальным именем символа "\u00CB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(83,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\oppo\Sea.cpp(84,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  oppo.vcxproj -> C:\Users\abcab\OneDrive\Рабочий стол\oppo\OPPO\x64\Debug\oppo.exe
